@@ -255,7 +255,7 @@ a:focus {
         background-position: center, center;
         background-repeat: no-repeat, no-repeat;
         background-size: 600px;
-        height: 800px;
+        height: 900px;
     }
 
     .intro-body p{
@@ -263,6 +263,7 @@ a:focus {
     }
 
     .intro .intro-body .intro-text {
+        padding-top: 50px;
         font-size: 2em;
     }
 }
